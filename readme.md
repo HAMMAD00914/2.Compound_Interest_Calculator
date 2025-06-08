@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/Banner.png" alt="C Programming Mini Projects Series" width="100%">
+</p>
+
 # 💻 Project 2 – Compound Interest Calculator (in C)
 
 This is **Project 2** in a series of mini exercises for **beginners learning C programming**. Each project in the series aims to help you practice essential programming concepts such as variables, user input/output, mathematical operations, and basic use of libraries.
